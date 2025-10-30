@@ -1,0 +1,6 @@
+@Kais.BACKENDEFC_HostAddress = http://localhost:5169
+
+GET {{Kais.BACKENDEFC_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
