@@ -1,4 +1,4 @@
-# Sistema de Gestión de Pedidos - Backend
+# Sistema Web Kaits - Backend
 
 API RESTful robusta para la gestión de pedidos, productos y clientes, desarrollada con ASP.NET Core aplicando arquitectura limpia y patrones modernos.
 
